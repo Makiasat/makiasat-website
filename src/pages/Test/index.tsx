@@ -1,10 +1,10 @@
-import LandingGrid from "@/components/LandingGrid";
+import MembersGrid from "@/components/MembersGrid/main.tsx";
 
 
 const Test = () => {
     return (
         <div className='max-w-7xl mx-auto'>
-            <LandingGrid/>
+            <MembersGrid/>
         </div>
     )
 }
